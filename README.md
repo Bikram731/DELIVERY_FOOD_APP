@@ -23,6 +23,7 @@ Foodeli is a full-stack MERN (MongoDB, Express, React, Node.js) food delivery ap
 
 ## How to Run Locally (Backend Setup)
 Create a .env file inside the backend/ folder and add the mongodb url for connecting the database.
+
 Install dependencies and start the backend:
 cd server
 npm install
